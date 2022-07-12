@@ -1,0 +1,8 @@
+{
+  "label": "Flujo de pedidos",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Diseño del flujo de entrada de pedidos."
+  }
+}
