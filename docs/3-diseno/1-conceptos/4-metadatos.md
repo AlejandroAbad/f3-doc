@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Metadatos
+title: \@Metadatos
 ---
 
 # Metadatos de las transmisiones
