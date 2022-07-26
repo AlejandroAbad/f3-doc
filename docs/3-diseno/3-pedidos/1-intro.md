@@ -35,6 +35,12 @@ Adicionalmente, en la creación del pedido es relevante el `usuario` y `dominio`
 
 
 
+<center>
+
+![Flujo de pedidos](./img/flujo-pedidos.svg)
+
+</center>
+
 ## Procesamiento
 Una vez recepcionada la llamada y registrada la transmisión correspondiente en el sistema, se procede al procesamiento de la petición.
 
